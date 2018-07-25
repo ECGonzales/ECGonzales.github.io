@@ -32,14 +32,14 @@ footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 .research { margin: 0px 0px 60px; }
 .research h1 { font-size: 3em; }
 .research h2 { font-size: 1.6em; }
-.research h3 { font-size: 1.2em; }
+.research h3 { font-size: 1.4em; }
 /*.research p { font-size: 1.4em; line-height: 1.4em; color: #333;} */
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 1.6em; }
-.cv h3 { font-size: 1.2em; }
+.cv h3 { font-size: 1.4em; }
 
 
 /* Not Sure what these two lines do*/

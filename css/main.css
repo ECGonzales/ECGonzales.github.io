@@ -3,37 +3,6 @@ body {margin: 60px auto; width: 70%;}
 nav ul, footer ul {font-family:'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: normal;}
 nav ul li, footer ul li {display: inline; margin-right: 10px;}
 
-/*Navbar Code to Keep it at the top*/
-/*.navbar {font-family:'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; 
-font-weight: normal;
-background-color: #FFEAA9;
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.navbar a {
-  float: left;
-  display: block;
-  color: #6513FF;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.navbar a:hover {font-weight: bold;
-  color: #6513FF;
-}
-
-.main {
-  padding: 16px;
-  margin-top: 30px;
-  height: 1500px; /* Used in this example to enable scrolling */
-/*}*/
-
-
 /* This is the font styles for the header and footer info, i.e Home button and twitter links*/
 a {text-decoration: none; color: #6513FF;}
 
@@ -51,14 +20,13 @@ h4 { font-size: 1.9em; }
 p {font-size: 1.5em; line-height: 1.4em; color: #000000;}
 footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 
-/* Images for main page*/
+/* Images for main page, not using because too busy. Puts two images side by side*/
 .imgContainer{
     float:left
 }
 
 .imgContainer2{
 	float:right
-
 }
 
 /* Bio */

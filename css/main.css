@@ -44,13 +44,14 @@ footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 .bio h2 { font-size: 2.4em; }
 .bio h3 { font-size: 1.6em; }
 .bio a:hover { font-weight: bold;}
+.bio p {font-size: 1.5em; line-height: 1.4em; color: #000000; margin-top: 0em; margin-bottom: 2em}
 
 /* research */
 .research { margin: 0px 0px 60px; }
 .research h1 { font-size: 3em; }
 .research h2 { font-size: 1.6em; }
 .research h3 { font-size: 1.4em; }
-p.italic {font-style: italic;}
+p.italic {font-style: italic; font-size: 1.5em; line-height: 1.4em; color: #000000;}
 /*.research p { font-size: 1.4em; line-height: 1.4em; color: #333;} */
 
 /* CV */

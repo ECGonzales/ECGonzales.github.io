@@ -20,6 +20,23 @@ h4 { font-size: 1.9em; }
 p {font-size: 1.5em; line-height: 1.4em; color: #000000;}
 footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 
+/* Images for main page*/
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  bottom: 0;
+  left: 0;
+}
+.image2 {
+  position: relative;
+  bottom: 0;
+  right: 0;
+}
+
 /* Bio */
 .bio { margin: 0px 0px 60px;}
 .bio p { padding-bottom: 5px;}

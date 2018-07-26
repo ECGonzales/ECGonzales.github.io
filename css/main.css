@@ -26,7 +26,7 @@ footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 }
 
 .imgContainer2{
-	float:left /*was previously float:left*/
+	float:right /*was previously float:left*/
 }
 
 /* Class to clear floats*/

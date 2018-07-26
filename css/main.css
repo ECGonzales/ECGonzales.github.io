@@ -29,6 +29,11 @@ footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
 	float:left /*was previously float:left*/
 }
 
+/* Class to clear floats*/
+p.clear {
+    clear: both;
+}
+
 /* Bio */
 .bio { margin: 0px 0px 60px;}
 .bio p { padding-bottom: 5px;}

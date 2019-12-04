@@ -10,7 +10,7 @@ a {text-decoration: none; color: #6513FF;}
 a:hover {font-weight: bold;}
 
 /* Font sizes for Headers*/
-h1, h2, h3, h4 {font-family:'Helvetica', 'Arial', 'Sans-Serif';}
+h1, h2, h3, h4 {font-family: 'Sans-Serif';}
 h1 { font-size: 3em;  }
 h2 { font-size: 2.7em; }
 h3 { font-size: 2.3em; }

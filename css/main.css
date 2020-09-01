@@ -43,7 +43,7 @@ p.clear {
 .bio h2 { font-size: 2.4em; }
 .bio h3 { font-size: 1.6em; }
 .bio a:hover { font-weight: bold;}
-.bio p {font-size: 1.5em; line-height: 1.4em; color: #000000; margin-top: 0em; margin-bottom: 2em}
+.bio p {font-size: 1.5em; line-height: 1.4em; color: #000000; margin-top: 0em;} /* margin-bottom: 2em}*/
 
 /* research */
 .research { margin: 0px 0px 60px; }

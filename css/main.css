@@ -20,7 +20,7 @@ h4 { font-size: 1.9em; }
 /* paragraph code */
 p {font-size: 1.5em; line-height: 1.4em; color: #000000;} 
 /* footer code */
-footer {border-top: 1px solid #d5d5d5; font-size: .8em; clear:both; margin-top: 5px;} /* border-top make the straight line above the icons */
+footer {border-top: 1px solid #d5d5d5; font-size: .8em; clear:both;} /* border-top make the straight line above the icons */
 
 /* Images for main page, not using because too busy. Puts two images side by side*/
 .imgContainer{
@@ -109,12 +109,13 @@ ul.posts li {
 .blurb {
   text-align: justify;
   text-justify: inter-word;
+  margin-bottom: 2px;
 }
 
 /* H1 "blurb" class style */
 .blurb h1 {
-	text-align:center;
-	font-family:'Georgia', 'Arial', sans-serif; 
-	margin: auto auto;
+  text-align:center;
+  font-family:'Georgia', 'Arial', sans-serif; 
+  margin: auto auto;
 }
 		

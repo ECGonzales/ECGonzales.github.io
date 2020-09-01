@@ -107,6 +107,8 @@ ul.posts li {
 		
 /* Styling for "blurb" class */
 .blurb {
+  display:block;
+  position:relative;
   text-align: justify;
   text-justify: inter-word;
   margin-bottom: 2px;

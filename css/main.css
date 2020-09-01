@@ -17,8 +17,10 @@ h3 { font-size: 2.3em; }
 h4 { font-size: 1.9em; }
 
 /* This is the font styles and such for the main body of the page*/
-p {font-size: 1.5em; line-height: 1.4em; color: #000000;}
-footer {border-top: 1px solid #d5d5d5; font-size: .8em;}
+/* paragraph code */
+p {font-size: 1.5em; line-height: 1.4em; color: #000000;} 
+/* footer code */
+footer {border-top: 1px solid #d5d5d5; font-size: .8em; clear:both;} /* border-top make the straight line above the icons */
 
 /* Images for main page, not using because too busy. Puts two images side by side*/
 .imgContainer{

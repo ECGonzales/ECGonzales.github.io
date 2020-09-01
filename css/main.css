@@ -1,6 +1,6 @@
 body {margin: 60px auto; width: 70%;}
 
-nav ul, footer ul {font-family:'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: normal;}
+nav ul, footer ul {font-family:'Helvetica', 'Arial', sans-serif; padding: 0px; list-style: none; font-weight: normal;}
 nav ul li, footer ul li {display: inline; margin-right: 10px;}
 
 /* This is the font styles for the header and footer info, i.e Home button and twitter links*/
@@ -67,3 +67,50 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* Code to create the icons at the bottom of the page: email, github, twitter, linkedin */
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+  border-radius: 35%;
+}
+
+.fa:hover {
+    opacity: 0.3;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github {
+  background: #000000;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-envelope {
+  background: #BA0CF2;
+  color: white;
+}	
+		
+/* Styling for "blurb" class */
+.blurb {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* H1 "blurb" class style */
+.blurb h1 {
+	text-align:center;
+}
+		

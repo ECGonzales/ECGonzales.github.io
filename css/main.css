@@ -70,7 +70,7 @@ ul.posts li {
     list-style: none;
 }
 
-/* Code to create the icons at the bottom of the page: email, github, twitter, linkedin */
+/* Code to create the icons at the bottom of the page: email, github, twitter, linkedin from https://fontawesome.com/v4.7.0/ */
 .fa {
   padding: 5px;
   font-size: 30px;
